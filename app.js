@@ -9,7 +9,7 @@ var connection = mysql.createConnection({
   host: "localHost",
   port: 3306,
   user: "root",
-  password: "1982",
+  password: "yourRootPassword",
   database: "employee_tracker"
 });
 
